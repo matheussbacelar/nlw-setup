@@ -1,6 +1,6 @@
 # NLW Setup - Trilha Explorer
 
-![preview](./.github/Preview.png)
+![preview](./assets/Preview.png)
 
 O Habist é um app para ajudar a rastrear os hábitos desenvolvido na trilha Explorer do NLW Setup da Rocketseat.
 
